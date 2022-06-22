@@ -23,6 +23,7 @@
 ## Skills
 
 **Software:** Java, Python, Linux/Bash, Git (GitHub, Bitbucket), Docker, Agile workflow (JIRA, Confluence, Jenkinks CI/CD).
+
 **Data Engineering:** SQL (Postgres, Microsoft SQL Server), SQL Server Management Studio, SQL Server Integration Services, NoSQL (MongoDB), Apache Hadoop, Apache Spark, Apache Airflow, Microsoft Azure (Azure Data Factory, Azure Synapse Analytics, Azure Data Lake Storage).
 
 ## Projects
