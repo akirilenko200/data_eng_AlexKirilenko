@@ -1,19 +1,31 @@
-# Alex Kirilenko . Jarvis Consulting
+# Alex Kirilenko
 
- I graduated with MSc in Electrical Engineering from the University of Saskatchewan. During my graduate studies, I focused on scientific computing, numerical methods, and applied mathematics. Recently, I have joined Jarvis as a software developer/data engineer. At Jarvis, I have learned the agile software development lifecycle practices and got hands-on experience with a broad stack of backend and data engineering technologies (including Spring Boot, Hibernate, REST API, Linux, etc.). I strive to deliver software products of the highest quality that satisfy the client's needs, and are easily maintained by other developers. Overall, I am excited to work on challenging projects and to contribute to their success as a part of a team. 
+ I graduated with MSc in Electrical Engineering from the University of Saskatchewan. During my graduate studies, I focused on scientific computing, numerical methods, and applied mathematics. I have participated in the agile software development lifecycle practices and got hands-on experience with a broad stack of backend and data engineering technologies. I strive to deliver solutions of the highest quality that satisfy the client's needs, and are easily maintained by other developers. Overall, I am excited to work on challenging projects and to contribute to their success as a part of a team. 
+
+
+## Professional Experiences
+
+**Data Engineer, Jarvis (2021-present)**: 
+- Working as a part of an Agile data team and closely collaborating with internal and external customers to promptly deliver sustainable and efficient data solutions. 
+- Building and maintaining ETL data pipelines to address the reporting and analytical needs.
+- Integrating external data sources into the data warehouse and data lake. Developing a self-service application to allow customers conveniently manage annotations and metadata for selected data products.
+- Optimizing the scheduling of the ETL tasks.
+- Migrating performance critical ETL pipelines into a Spark cluster.
+
+**Graduate Research Assistant, University of Saskatchewan (2017-2021)**: Collaborated with other research lab members on delegated parts of research proposals, grant applications and research project reports. Assisted as a reviewer of conference papers. Helped to organize and host of the workshops and seminars. Performed literature review and market research of various power system technologies and applications. Developed and implemented numerical and statistical models for the simulation of the impact of renewable energy on power system operation.
+
+
+## Education
+**University of Saskatchewan (2017-2021)**, Master of Science, Electrical and Computer Engineering
+- GPA: 3.7/4.0
+
 
 ## Skills
 
-**Proficient:** Java, RDBMS/SQL, Agile/Scrum, Linux/Bash, Git
+** Software: ** Java, Python, Linux/Bash, Git (GitHub, Bitbucket), Docker, Agile workflow (JIRA, Confluence, Jenkinks CI/CD).
+** Data Engineering: ** SQL (Postgres, Microsoft SQL Server), SQL Server Management Studio, SQL Server Integration Services, NoSQL (MongoDB), Apache Hadoop, Apache Spark, Apache Airflow, Microsoft Azure (Azure Data Factory, Azure Synapse Analytics, Azure Data Lake Storage).
 
-**Competent:** Spring Boot, Hibernate, REST API, Docker, Maven, Python
-
-**Familiar:** Networking (TCP/IP), Google Cloud Platform, JavaScript, HTML/CSS, LaTeX
-
-## Jarvis Projects
-
-Project source code: [https://github.com/jarviscanada/jarvis_data_eng_AlexKirilenko](https://github.com/jarviscanada/jarvis_data_eng_AlexKirilenko)
-
+## Projects
 
 **Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_AlexKirilenko/tree/master/linux_sql)]: The project presents a collection of Bash and SQL scripts to automate the aggregation and persistence of hardware and real-time resource usage data from a cluster of Linux servers. The application utilizes a PostgreSQL database server deployed through the docker.
 
@@ -29,21 +41,8 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_AlexKirile
 
 **Hadoop** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_AlexKirilenko/tree/master/hadoop)]: Deployed a Hadoop cluster using Google Cloud Platform and explored the main components of Hadoop ecosystem, including HDFS, YARN and Hive. Extracted and transformed the 2016 world development index data using Hive and Zeppelin notebook. Performed an analysis of the data using Hive query language and compared the performance of different optimizations, including the columnar data format (Parquet) and hive partitions. The project is distributed as a Zeppelin notebook.
 
-
 ## Highlighted Projects
 **Machine Learning Models For Power Systems**: Researched and implemented machine learning models to solve problems in the area of power systems. Examples include time series forecasting implemented using LSTM neural networks and estimation of reliability indices using regression forests.
-
-
-## Professional Experiences
-
-**Software Developer, Jarvis (2021-present)**: Designed and implemented various software projects and server-side applications following Scrum project development methodology. Gained hands-on development experience with Java, SQL and Linux, and project lifecycle management and deployment using Git, Docker and Maven.
-
-**Graduate Research Assistant, University of Saskatchewan (2017-2021)**: Collaborated with other research lab members on delegated parts of research proposals, grant applications and research project reports. Assisted as a reviewer of conference papers. Helped to organize and host of the workshops and seminars. Performed literature review and market research of various power system technologies and applications. Developed and implemented numerical and statistical models for the simulation of the impact of renewable energy on power system operation.
-
-
-## Education
-**University of Saskatchewan (2017-2021)**, Master of Science, Electrical and Computer Engineering
-- GPA: 3.7/4.0
 
 
 ## Miscellaneous
